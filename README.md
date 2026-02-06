@@ -1,8 +1,8 @@
 
-<h1 align="center">Hey there! 👋</h1>
+Hey there! 👋
 
-<p align="center">
-I'm <b>Vamshi</b>, a Full-Stack Developer focused on Java, MySQL, HTML, CSS, and JavaScript.
+<p>
+I'm <u>Vamshi</u>, a Full-Stack Developer focused on Java, MySQL, HTML, CSS, and JavaScript.
 </p>
 
 - B.Tech Computer Science (AI) student graduating in 2026  
