@@ -1,10 +1,8 @@
 
 ## Hi there 👋
-i'm Vamshi Boya — Developer
+i'm (Vamshi Boya) — Developer
 
 Computer Science student focused on full-stack web development using Java, MySQL, HTML, CSS, and JavaScript. I build functional web applications with clean UI, structured backend logic, and database integration.
-
----
 
 - B.Tech Computer Science (AI) student graduating in 2026  
 - Interested in full-stack development roles  
@@ -29,8 +27,6 @@ Computer Science student focused on full-stack web development using Java, MySQL
 | JavaScript |  |  | SQL Queries | VS Code |
 |  |  |  |  | IntelliJ IDEA |
 |  |  |  |  | Eclipse |
-
----
 
 
 
