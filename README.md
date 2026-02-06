@@ -9,12 +9,6 @@ I'm <u>Vamshi</u>, a Full-Stack Developer focused on Java, MySQL, HTML, CSS, and
 - Strong in OOP, SQL, and problem solving  
 - Experience building real working applications with Java + MySQL  
 
-
-## What am I currently working on?
-
-- Building full-stack web applications using Java and MySQL  
-- Improving problem-solving using DSA and real project logic  
-
 ## Tools & Technologies
 
 | Frontend | Backend | Database | Concepts | Tools |
