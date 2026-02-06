@@ -1,5 +1,6 @@
 
-# Vamshi Boya — Developer Portfolio
+## Hi there 👋
+i'm Vamshi Boya — Developer
 
 Computer Science student focused on full-stack web development using Java, MySQL, HTML, CSS, and JavaScript. I build functional web applications with clean UI, structured backend logic, and database integration.
 
@@ -30,34 +31,6 @@ Computer Science student focused on full-stack web development using Java, MySQL
 |  |  |  |  | Eclipse |
 
 ---
-## 📦 Projects
 
-### 1) Full-Stack E-Commerce Web Application
-**Tech:** Java, MySQL, HTML, CSS, JavaScript  
 
-- Built authentication, product catalog, and order handling  
-- Implemented MySQL database with CRUD operations and validation  
-- Structured backend using OOP principles  
-
----
-
-### 2) Library Management System
-**Tech:** Java, MySQL, HTML, CSS, JavaScript  
-
-- Managed books, users, and issue/return workflows  
-- Implemented database persistence and SQL queries  
-- Handled CRUD operations and exceptions  
-
----
-
-## 🧪 Internship Experience
-
-**Java Development Intern — Oasis Infobyte**  
-*Oct 2025 – Nov 2025*
-
-- Worked with Core Java and OOP  
-- Implemented database connectivity using MySQL  
-- Participated in debugging and code reviews  
-
----
 
