@@ -4,7 +4,7 @@ Hey there! 👋
 I'm <u>Vamshi</u>, a Full-Stack Developer focused on Java, MySQL, HTML, CSS, and JavaScript.
 </p>
 
-- B.Tech Computer Science (AI) student graduating in 2026  
+- B.Tech Computer Science (Artificial Intelligence) student graduating in 2026  
 - Interested in full-stack development roles  
 - Strong in OOP, SQL, and problem solving  
 - Experience building real working applications with Java + MySQL  
