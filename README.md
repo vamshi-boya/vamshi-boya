@@ -1,26 +1,9 @@
 
-
-<!--
-**vamshi-boya/vamshi-boya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Vamshi Boya — Developer Portfolio
 
 Computer Science student focused on full-stack web development using Java, MySQL, HTML, CSS, and JavaScript. I build functional web applications with clean UI, structured backend logic, and database integration.
 
 ---
-
-## 👤 Who am I?
 
 - B.Tech Computer Science (AI) student graduating in 2026  
 - Interested in full-stack development roles  
@@ -78,22 +61,3 @@ Computer Science student focused on full-stack web development using Java, MySQL
 
 ---
 
-## 📜 Certifications
-
-- Java Development Certification  
-- MySQL Fundamentals Certification  
-
----
-
-## 🏆 Achievements
-
-- Participated in college hackathon  
-- Received appreciation certificate  
-
----
-
-## 📫 How to reach me
-
-- Email: vamshi.boya708@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/vamshi-boya-64436b306  
-- GitHub: https://github.com/vamshi21-dev
