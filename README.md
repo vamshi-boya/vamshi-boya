@@ -38,30 +38,15 @@ Computer Science student focused on full-stack web development using Java, MySQL
 
 ## 🛠 Tools & Technologies
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-
-### Backend
-- Java  
-
-### Database
-- MySQL  
-
-### Concepts
-- OOP  
-- Data Structures  
-- SQL Queries  
-
-### Tools
-- Git & GitHub  
-- VS Code  
-- IntelliJ IDEA  
-- Eclipse  
+| Frontend | Backend | Database | Concepts | Tools |
+|---------|---------|----------|----------|-------|
+| HTML | Java | MySQL | OOP | Git |
+| CSS |  |  | Data Structures | GitHub |
+| JavaScript |  |  | SQL Queries | VS Code |
+|  |  |  |  | IntelliJ IDEA |
+|  |  |  |  | Eclipse |
 
 ---
-
 ## 📦 Projects
 
 ### 1) Full-Stack E-Commerce Web Application
