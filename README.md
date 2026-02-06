@@ -1,22 +1,20 @@
 
-## Hi there 👋
-i'm (Vamshi Boya) — Developer
+<h1 align="center">Hey there! 👋</h1>
 
-Computer Science student focused on full-stack web development using Java, MySQL, HTML, CSS, and JavaScript. I build functional web applications with clean UI, structured backend logic, and database integration.
+<p align="center">
+I'm <b>Vamshi</b>, a Full-Stack Developer focused on Java, MySQL, HTML, CSS, and JavaScript.
+</p>
 
 - B.Tech Computer Science (AI) student graduating in 2026  
 - Interested in full-stack development roles  
 - Strong in OOP, SQL, and problem solving  
 - Experience building real working applications with Java + MySQL  
 
----
 
 ## 💻 What am I currently working on?
 
 - Building full-stack web applications using Java and MySQL  
 - Improving problem-solving using DSA and real project logic  
-
----
 
 ## 🛠 Tools & Technologies
 
